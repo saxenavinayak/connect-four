@@ -1,0 +1,1 @@
+Basic application built in Kotlin to simulate the popular game Connect-4. Practiced MVC design pattern. Has "snap-on" feature so pieces fall in smoothly to each column. Demo here: https://www.youtube.com/watch?v=duh_zgxjEzE
